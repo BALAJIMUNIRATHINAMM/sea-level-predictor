@@ -1,0 +1,10 @@
+# Ignore Python cache and environment files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+
+# Ignore generated plots
+sea_level_plot.png
